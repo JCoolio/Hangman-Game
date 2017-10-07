@@ -1,5 +1,5 @@
-// This is the word bank
-var words = ["animal", "dog"];
+
+var words = ["rick", "morty", "portal", "math", "science", "garage", "schwifty"];
 
 var currentWord = words[Math.floor(Math.random() * words.length)].toUpperCase();
 
